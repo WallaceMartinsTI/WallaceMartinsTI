@@ -1,6 +1,14 @@
 <div align="center">
   <h1>Olá, eu sou o Wallace Martins, estudante de programação!</h1>
 </div>
+
+<br />
+<div align="center">
+  <em>
+    Brazilian, Programmer Student. Currently studying Computer Science at the Estacio de Sa University. Programming enthusiast, with fullstack knowledge, using Python and Django as the Backend and using ReactJS on the Frontend, basic knowledge of Linux(Ubuntu, Mint) and Version Control System (GIT). I keep up to date on current technologies and continue my daily studies on them.
+  </em>
+</div>
+
 <div align="center">
   <a href="https://github.com/wallacemartinsti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wallacemartinsti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
