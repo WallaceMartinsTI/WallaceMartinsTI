@@ -1,5 +1,4 @@
 <div align="center">
-  <h1>Olá, eu sou o Wallace Martins, estudante de programação!</h1>
   <h1>Hi, I'm Wallace Martins, programmer student!</h1>
 </div>
 
