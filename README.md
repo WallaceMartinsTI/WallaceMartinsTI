@@ -1,5 +1,5 @@
 <div align="center">
-  ## Olá, eu sou o Wallace Martins, estudante de programação!
+  <h1>Olá, eu sou o Wallace Martins, estudante de programação!</h1>
 </div>
 <div align="center">
   <a href="https://github.com/wallacemartinsti">
