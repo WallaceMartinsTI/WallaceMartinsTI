@@ -4,7 +4,7 @@
 
 <div align="left">
   <em>
-    Brazilian, Programmer Student. Currently studying Computer Science at the Estacio de Sa University. Programming enthusiast, with fullstack knowledge, using Python and Django as the Backend and using ReactJS on the Frontend, basic knowledge of Linux(Ubuntu, Mint) and Version Control System (GIT). I keep up to date on current technologies and continue my daily studies on them.
+    Brazilian, Programmer. Graduated with a Bachelor's degree in Computer Science from Estácio de Sá University. Programming enthusiast, with fullstack knowledge, using Python and Django as the Backend and using ReactJS on the Frontend, basic knowledge of Linux(Ubuntu, Mint) and Version Control System (GIT). I keep up to date on current technologies and continue my daily studies on them.
   </em>
 </div>
 
