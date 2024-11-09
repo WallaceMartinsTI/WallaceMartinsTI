@@ -1,5 +1,9 @@
 <div align="center">
-  <h1>Hi, I'm Wallace Martins, programmer student!</h1>
+  <h1>Ola, sou o Wallace Martins, Desenvolvedor Android!</h1>
+</div>
+
+<div align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQFZUIUkp3YaiQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731192922255?e=1736380800&v=beta&t=j6xH_9hlvyRCeI9j1uAJTMWfe0v2Y2FavpjBncoLoSE" />
 </div>
 
 <div align="left">
