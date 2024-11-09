@@ -4,7 +4,7 @@
 
 <div align="left">
   <em>
-    Brazilian, Programmer. Graduated with a Bachelor's degree in Computer Science from Estácio de Sá University. Programming enthusiast, with fullstack knowledge, using Python and Django as the Backend and using ReactJS on the Frontend, basic knowledge of Linux(Ubuntu, Mint) and Version Control System (GIT). I keep up to date on current technologies and continue my daily studies on them.
+    Brasileiro, Programador. Graduado em Ciência da Computação pela Universidade Estácio de Sá. Entusiasta de programação, com conhecimento fullstack, utilizando Python e Django como Backend, HTML, CSS, JavaScript e ReactJS no Frontend e Android no Mobile. Conhecimento básico de Linux (Ubuntu, Mint) e Sistema de Controle de Versão (GIT). Mantenho-me atualizado sobre as tecnologias atuais e continuo meus estudos diários sobre elas.
   </em>
 </div>
 
