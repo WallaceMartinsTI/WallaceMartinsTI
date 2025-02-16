@@ -2,10 +2,6 @@
   <h1>Ola, sou o Wallace Martins, Desenvolvedor Android!</h1>
 </div>
 
-<div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQFZUIUkp3YaiQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731192922255?e=1736380800&v=beta&t=j6xH_9hlvyRCeI9j1uAJTMWfe0v2Y2FavpjBncoLoSE" />
-</div>
-
 <div align="left">
   <em>
     Brasileiro, Programador. Graduado em Ciência da Computação pela Universidade Estácio de Sá. Entusiasta de programação, com conhecimento fullstack, utilizando Python e Django como Backend, HTML, CSS, JavaScript e ReactJS no Frontend e Android no Mobile. Conhecimento básico de Linux (Ubuntu, Mint) e Sistema de Controle de Versão (GIT). Mantenho-me atualizado sobre as tecnologias atuais e continuo meus estudos diários sobre elas.
